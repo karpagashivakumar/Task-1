@@ -1,0 +1,28 @@
+*
+{
+    background-color: yellow;
+}
+h1{
+    color: red;
+}
+h3{
+    color: chocolate;
+}
+h2{
+    color: green;
+}
+table{
+    border-width: 1cm;
+}
+#pics{
+    font-size: 48px;
+}
+#pigs{
+    font-family: cursive;
+}
+img{
+    border-radius: 20px;
+}
+table{
+    background-color: white;
+}
